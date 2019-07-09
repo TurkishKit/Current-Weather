@@ -32,7 +32,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var textLabel : UILabel!
     
     
-    fileprivate let api = "b93245a348c342b734fa6a52321aa6d8"
+    fileprivate let api = "1111111111111"
     fileprivate let shared = URLSession.shared
     fileprivate var weather = Weather()
     fileprivate var latitude = 0.0
